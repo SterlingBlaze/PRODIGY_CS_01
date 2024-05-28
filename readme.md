@@ -16,4 +16,5 @@ The Caesar Cipher is one of the simplest and earliest known encryption technique
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/SterlingBlaze/caesar-cipher.git
+   git clone https://github.com/SterlingBlaze/PRODIGY_CS_01.git
+   
